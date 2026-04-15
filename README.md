@@ -6,8 +6,6 @@
 - `askew` — Page tilts slightly
 - `tilt` — Same as askew
 - `blink html` — Blinking text effect
-- `recursion` — “Did you mean: recursion”
-- `anagram` — “Did you mean: nag a ram”
 
 ## Fun & Interactive
 - `drop a bear` — Bear drops from top 

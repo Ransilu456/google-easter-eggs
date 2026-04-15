@@ -42,13 +42,13 @@
 - `roll a die` — Dice roll
 - `spinner` — Spin wheel / fidget spinner
 
-## Hidden Tools (Not exactly eggs but cool)
+## Hidden Tools
 - `timer` — Built-in timer
 - `stopwatch` — Stopwatch
 - `calculator` — Full calculator
 - `translate` — Instant translation
 
-## Bonus (
+## Bonus
 - Gravity Google
 - Underwater Google 
 - Mirror Google 
